@@ -6,7 +6,7 @@ I'm a grad student pursuing my masters in Applied Statistics at California State
 I have two passions in my life: helping others learn about statistics and math; and using data to investigate public policy questions. Some current topics of interest for me are cap-and-trade markets and health insurance markets.
 
 ## Past Projects
-[My final project for Numerical Analysis](/siyer5/Math323_Numerical_Analysis_Project)
+[My final project for Numerical Analysis](https://github.com/siyer5/Math323_Numerical_Analysis_Project)
 
 ## Current Projects
   
